@@ -1,0 +1,112 @@
+body {
+	margin: auto auto;
+	padding: auto;
+	background-image: url('../image/background.jpg');
+	background-size: 100%;
+}
+.sfondo {
+	width: 100%;
+	height: 100%;
+	}
+#mappa1 {
+	position: absolute;
+	padding: 50px;
+	margin: 40px 370px;
+	width: 1190px;
+	height: 850px;
+	background-color: black;
+	opacity: 0.6;
+	border: 5px solid black;
+	border-radius: 15px;
+	}
+*{
+	box-sizing:border-box;
+	margin: 0;
+	}
+.logo {
+	margin-top: 50px;
+	margin-right: 20px;
+	width: 250px;
+	height: 100px;
+	}
+h1 {
+	margin-top: 5px;
+	margin-right: 45px;
+	color: lime;
+	font-size: 30px;
+	}
+#pulsanti {
+	position: absolute;
+	width: 1000px;
+	margin-top: 290px;
+	margin-left: 450px;
+	padding: 2px;
+	background: lime;
+	border: 10px solid lime;
+	}
+#monogino {
+	float: left;
+	margin: 5px 5px;
+	padding: auto;
+	}
+#mono1 {
+	position: absolute;
+	color: white;
+	width: 350px;
+	font-size: 20px;
+	margin-top: 370px;
+	margin-left: 450px;
+	}
+#Gino22 {
+	position: absolute;
+	width: 400px;
+	margin-top: 440px;
+	margin-left: 450px;
+	color: #b8860b;
+	border: 15px solid #b8860b;
+	border-radius: 5px;
+	}
+	#monomike {
+		float: left;
+		margin: 5px 5px;
+		padding: auto;
+		}
+	#mono2 {
+		position: absolute;
+		color: white;
+		width: 350px;
+		font-size: 20px;
+		margin-top: 508px;
+		margin-left: 450px;
+		}
+	#Mike24 {
+		position: absolute;
+		width: 650px;
+		margin-top: 580px;
+		margin-left: 450px;
+		color: #006400;
+		border: 15px solid #006400;
+		border-radius: 5px;
+		}
+		#monofede {
+			float: left;
+			margin: 5px 5px;
+			padding: auto;
+			}
+		#mono3 {
+			position: absolute;
+			color: white;
+			width: 350px;
+			font-size: 20px;
+			margin-top: 653px;
+			margin-left: 450px;
+			}
+		#Fede154 {
+			position: absolute;
+			width: 150px;
+			margin-top: 725px;
+			margin-left: 450px;
+			color: #8b0000;
+			border: 15px solid #8b0000;
+			border-radius: 5px;
+			}
